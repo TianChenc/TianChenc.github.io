@@ -1,3 +1,4 @@
 http://example.com/2023/04/26/test-my-site/
 http://example.com/2023/04/26/hello-world/
+http://example.com/2021/12/14/%E5%9B%BE%E8%AE%BA/
 http://example.com/
